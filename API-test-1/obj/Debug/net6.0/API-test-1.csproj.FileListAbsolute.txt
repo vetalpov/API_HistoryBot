@@ -1,0 +1,63 @@
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\appsettings.Development.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\appsettings.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.exe
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.deps.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.runtimeconfig.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.pdb
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.AssemblyReference.cache
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.AssemblyInfoInputs.cache
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.AssemblyInfo.cs
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.CoreCompileInputs.cache
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.MvcApplicationPartsAssemblyInfo.cs
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.MvcApplicationPartsAssemblyInfo.cache
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets\msbuild.API-test-1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets\msbuild.build.API-test-1.props
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API-test-1.props
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API-test-1.props
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\scopedcss\bundle\API-test-1.styles.css
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.CopyComplete
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\refint\API-test-1.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.pdb
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.genruntimeconfig.cache
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\obj\Debug\net6.0\ref\API-test-1.dll
+E:\Навчання\programing\2 семестр\Курсова робота\узагал чотирьох методів\API-test-1\API-test-1\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\appsettings.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.exe
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.deps.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.runtimeconfig.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\API-test-1.pdb
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.AssemblyReference.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.AssemblyInfoInputs.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.AssemblyInfo.cs
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\scopedcss\bundle\API-test-1.styles.css
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.csproj.CopyComplete
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\refint\API-test-1.dll
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.pdb
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\API-test-1.genruntimeconfig.cache
+C:\Users\Користувач\OneDrive\Робочий стіл\Курсач\API-test-1\API-test-1\obj\Debug\net6.0\ref\API-test-1.dll
